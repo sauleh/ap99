@@ -16,6 +16,9 @@ permalink: /course-materials/
 * **Data Structures and Algorithms** with Object-Oriented **Design Patterns** in C# (web archive [here](https://web.archive.org/web/20161207142802/http://www.brpreiss.com/books/opus6/))
 * Learn how to program: C# from [Epicodus Inc.](https://www.learnhowtoprogram.com/c)
 
+# Blazor
+* Blazor [lab notes](../static_files/materials/Blazor.pdf) by Roozbeh Ghazavi
+
 ### C# coding standards
 + [Link](https://www.dofactory.com/reference/csharp-coding-standards)
 + [Link](https://github.com/thangchung/clean-code-dotnet)
